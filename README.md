@@ -1,24 +1,188 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bereketab-zena-fiseha) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bereketab Zena Fiseha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bereketabzenafiseha@gmail.com) 
+# 👋 Hi, I'm Bereketab Zena Fiseha
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bek330&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=bek330&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bek330&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Full-Stack Developer • React • TypeScript • Node.js • MongoDB
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bek330&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Building modern, scalable web applications with clean architecture and thoughtful user experiences.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bereketabzenafiseha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bek330&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=bek330&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+I'm a Full-Stack Developer from **Ethiopia** passionate about building modern web applications that combine clean design with reliable backend systems.
+
+I primarily work with **React**, **TypeScript**, **Node.js**, and **MongoDB**, and I enjoy creating applications that are responsive, maintainable, and solve real-world problems.
+
+I'm currently expanding my knowledge in software architecture, testing, Docker, and cloud deployment while building portfolio-quality projects.
+
+- 🌍 Based in Ethiopia
+- 💼 Open to Full-Stack Developer opportunities
+- 🇩🇪 Preparing for opportunities with international teams, especially in Germany
+- 📚 Always learning and improving through real-world projects
+
+---
+
+# 🚀 Current Focus
+
+- Building production-ready MERN applications
+- Writing scalable REST APIs
+- Improving TypeScript skills
+- Learning Docker & CI/CD
+- Studying software architecture and system design
+- Contributing to open source
+
+---
+
+# ⭐ Featured Projects
+
+> Replace these placeholders with your actual repositories.
+
+### 🏢 Enterprise Management System
+A MERN application with authentication, dashboards, employee management, inventory, reporting, and role-based access control.
+
+➡️ Repository: `https://github.com/bek330/YOUR_REPOSITORY`
+
+---
+
+### 📊 SaaS Dashboard
+
+Modern analytics dashboard built with React, TypeScript, responsive UI, and interactive charts.
+
+➡️ Repository: `https://github.com/bek330/YOUR_REPOSITORY`
+
+---
+
+### 🤖 AI Productivity App
+
+AI-powered productivity application designed to improve workflow and automate repetitive tasks.
+
+➡️ Repository: `https://github.com/bek330/YOUR_REPOSITORY`
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, experience, and development journey.
+
+➡️ Repository: `https://github.com/bek330/YOUR_REPOSITORY`
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- Next.js
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Figma
+- Vercel
+- Render
+- Jest
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bek330&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bek330&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bek330&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bek330&theme=tokyo-night&hide_border=true)](https://github.com/bek330)
+
+---
+
+# 💡 What I Enjoy Building
+
+- Full-Stack Applications
+- SaaS Platforms
+- Admin Dashboards
+- REST APIs
+- Authentication Systems
+- Business Management Software
+- Automation Tools
+- Responsive User Interfaces
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Land my first international software engineering role
+- 🚀 Build five production-quality applications
+- 🌍 Contribute to open source
+- 🐳 Become proficient with Docker & CI/CD
+- 📚 Strengthen software architecture and testing skills
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+bereketabzenafiseha@gmail.com
+
+💼 **LinkedIn**
+
+YOUR_LINKEDIN_URL
+
+🌐 **Portfolio**
+
+YOUR_PORTFOLIO_URL
+
+---
+
+<div align="center">
+
+> *"I believe great software comes from curiosity, consistency, and a commitment to continuous learning."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
