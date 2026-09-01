@@ -153,7 +153,7 @@ Personal portfolio showcasing projects, experience, and development journey.
 
 ---
 
-# 🎯 Goals for 2026
+<* # 🎯 Goals for 2026
 
 - ✅ Land my first international software engineering role
 - 🚀 Build five production-quality applications
@@ -161,7 +161,7 @@ Personal portfolio showcasing projects, experience, and development journey.
 - 🐳 Become proficient with Docker & CI/CD
 - 📚 Strengthen software architecture and testing skills
 
----
+---*>
 
 # 🤝 Let's Connect
 
