@@ -161,7 +161,7 @@ Personal portfolio showcasing projects, experience, and development journey.
 - 🐳 Become proficient with Docker & CI/CD
 - 📚 Strengthen software architecture and testing skills
 
----*/
+--- */
 
 # 🤝 Let's Connect
 
