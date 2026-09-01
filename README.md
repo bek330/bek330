@@ -32,7 +32,7 @@ I'm currently expanding my knowledge in software architecture, testing, Docker, 
 
 - 🌍 Based in Ethiopia
 - 💼 Open to Full-Stack Developer opportunities
-- 🇩🇪 Preparing for opportunities with international teams, especially in Germany
+- 🇩🇪 Preparing for opportunities with international teams
 - 📚 Always learning and improving through real-world projects
 
 ---
@@ -55,7 +55,7 @@ I'm currently expanding my knowledge in software architecture, testing, Docker, 
 ### 🏢 Enterprise Management System
 A MERN application with authentication, dashboards, employee management, inventory, reporting, and role-based access control.
 
-➡️ Repository: `https://github.com/bek330/YOUR_REPOSITORY`
+➡️ Repository: `https://github.com/bek330/flowledger`
 
 ---
 
