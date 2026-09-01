@@ -63,7 +63,7 @@ A MERN application with authentication, dashboards, employee management, invento
 
 Modern analytics dashboard built with React, TypeScript, responsive UI, and interactive charts.
 
-➡️ Repository: `https://github.com/bek330/YOUR_REPOSITORY`
+➡️ Repository: `https://github.com/bek330/qr-cafe-menu-system`
 
 ---
 
