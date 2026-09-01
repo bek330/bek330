@@ -165,17 +165,12 @@ Personal portfolio showcasing projects, experience, and development journey.
 
 # 🤝 Let's Connect
 
-📧 **Email**
+<a herf="bereketabzenafiseha@gmail.com">📧 EMAIL </a>
 
-bereketabzenafiseha@gmail.com
+<a herf="htttps://linkedin.com/in/bereketab-zena-fiseha">💼 **LinkedIn**</a>
 
-💼 **LinkedIn**
 
-YOUR_LINKEDIN_URL
-
-🌐 **Portfolio**
-
-YOUR_PORTFOLIO_URL
+<a herf="bereketab.vercel.app">🌐Portfolio Site</a>
 
 ---
 
